@@ -60,5 +60,5 @@ The data represents operational performance across multiple periods and product 
 
 ## Report Snapshot (Excel Dashboard)  
 
-```md
-<img width="1907" height="993" alt="Image" src="https://github.com/user-attachments/assets/debfe02b-678a-4a28-8732-5a0cbb7e6d18" />
+
+<img width="1919" height="1007" alt="Image" src="https://github.com/user-attachments/assets/5e6d75ab-4114-456f-ae5d-ce7d5459905b" />
